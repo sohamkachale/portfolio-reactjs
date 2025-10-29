@@ -706,7 +706,7 @@ const Projects = () => {
       id: 4,
       title: "Note Make App",
       image: "./img/note-app.png",
-      tech: ["React", "JavaScript", "CSS"],
+      tech: ["React", "JavaScript", "CSS","Framermotion"],
       category: "frontend",
       description: "A modern note-taking application built with React. Features include creating, editing, and deleting notes with a clean, intuitive interface. Perfect for organizing thoughts and managing tasks efficiently.",
       link: "https://note-make-app-react-udex.vercel.app/",
