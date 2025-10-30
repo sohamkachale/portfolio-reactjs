@@ -284,7 +284,7 @@ const Home = () => {
                   Download Resume
                 </motion.a>
                 <motion.a 
-                  href="https://github.com/sohamkachale?tab=repositories" 
+                  href="https://github.com/sohamkachale" 
                   className="btn btn-secondary"
                   whileHover={{ scale: 1.05, y: -5 }}
                   whileTap={{ scale: 0.95 }}
